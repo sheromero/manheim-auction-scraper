@@ -1,0 +1,7 @@
+**/node_modules
+**/package-lock.json
+**/*.sqlite
+
+# Dist ignores
+/dist/*
+!/dist/.gitignore
